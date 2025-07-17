@@ -1,0 +1,21 @@
+#login {
+    img {
+        width: 500px;
+    }
+    form {
+        width: 480px;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+        input {
+            padding: 10px 20px;
+        }
+        button {
+            background-color: black;
+            color: white;
+            font-family: "Caveat";
+            border: 2px solid black;
+            font-size: 35px;
+        }
+    }
+}
