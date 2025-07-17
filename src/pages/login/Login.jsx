@@ -13,6 +13,7 @@ const Login = () => {
             <form action="">
               <input type="email" placeholder='enter your email'/>
               <input type="password" placeholder='enter your password'/>
+              <a href=""></a>
               <button>log in</button>
             </form>
           </div>
